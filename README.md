@@ -10,7 +10,7 @@
 
 <!-- Animasi Mengetik -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast;Tech-savvy+;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Distro+Hopper;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;AI+Enthusiat;Distro+Hopper;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 <br>
@@ -28,7 +28,6 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="50">&nbsp;
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="50">&nbsp;
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50">&nbsp;
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50">&nbsp;
 </div>
 <br>
 
