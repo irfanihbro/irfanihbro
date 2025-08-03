@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
-<br>
+<br><br>
 <div align="center">
   
 ## 🧑🏻‍💻 About Me
@@ -64,7 +64,7 @@ class irfanihbro:
         self.name = "Muhammad Irfan Anshari"
         self.location = "Banjarmasin, Indonesia"
         self.work = "Network Engineer & Full-Stack Developer"
-        self.interests = ["Cybersecurity", "Web3", "AI", "Robotics"]
+        self.interests = ["Cybersecurity", "Web Development", "AI", "Software Development, "Robotics"]
         self.gaming = ["Roblox", "Minecraft", "PlayStation"]
         self.life_motto = "Big plans start with small steps"
 
@@ -98,9 +98,9 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash)
 
 ---
@@ -213,3 +213,4 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
