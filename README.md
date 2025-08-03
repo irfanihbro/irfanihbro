@@ -14,10 +14,8 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="50">&nbsp;
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="60">&nbsp;
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="60">&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">&nbsp;
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="60">&nbsp;
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="45">&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50">&nbsp;
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="50">&nbsp;
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="50">&nbsp;
@@ -213,4 +211,5 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
