@@ -62,7 +62,7 @@ class irfanihbro:
         self.name = "Muhammad Irfan Anshari"
         self.location = "Banjarmasin, Indonesia"
         self.work = "Network Engineer & Full-Stack Developer"
-        self.interests = ["Cybersecurity", "Web Development", "AI", "Software Development, "Robotics"]
+        self.interests = ["Robotics", "Cybersecurity", "Web Development", "AI", "Software Development"]
         self.gaming = ["Roblox", "Minecraft", "PlayStation"]
         self.life_motto = "Big plans start with small steps"
 
@@ -86,7 +86,7 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 
 🛠️ **Tech Stack I Use Often:**
 
-- **Languages:** HTML, CSS, JavaScript, PHP, CPP, Python, Bash, and more
+- **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
 - **Tools:** VS Code, Termux, Acode, Figma, Photoshop, Git & GitHub
 - **Platforms:** Linux (OpenWrt, Kali & Debian), Windows, Android, MikroTik & Cisco
 
@@ -152,7 +152,7 @@ Below here are my social links, let's get connected! :)
 ```yaml
 Development:
   Editor:
-    desktop: ["Visual Studio Code", "Sublime Text", "Arduino IDE", ]
+    desktop: ["Visual Studio Code", "Arduino IDE"]
     mobile: ["Acode"]
     terminal: ["Termux", "Linux UserLAnd", "PowerShell", "GNU Bash"]
 
@@ -205,3 +205,4 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
