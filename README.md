@@ -194,9 +194,6 @@ System:
 <a href="https://angular.io" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50">
 </a>
-<a href="https://www.sublimetext.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
-</a>
 <a href="https://react.dev" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
 </a>
