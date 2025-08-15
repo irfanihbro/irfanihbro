@@ -4,7 +4,7 @@
     
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Art+Lover;Distro+Hopper;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Aficionado;Art+Lover;Distro+Hopper;Guitarist;Photographer;Metalhead;Automotive+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 <br>
@@ -95,8 +95,8 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash)
@@ -115,7 +115,7 @@ Below here are my social links, let's get connected! :)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/irfanihbro)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Irfanihbro/s/Sq62J8E3Wv)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
+[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/31py4i42a6nd3he6xgorse3xku6e)
 
 </div>
 <br>
@@ -206,8 +206,4 @@ System:
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 </div>
-
-
-
