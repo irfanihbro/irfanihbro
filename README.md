@@ -1,10 +1,8 @@
 <div align="center">
-
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Views&color=0e75b6&style=flat"/></p>
-    
+ 
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Aficionado;Art+Lover;Distro+Hopper;Guitarist;Photographer;Metalhead;Automotive+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech,+Art,+and+Automotive+Enthusiast;Aspiring+Developer+and+Network+Engineer;Linux+Aficionado;Audiophile;Guitarist;Casual+Gamer+and+Photographer;Metalhead)](https://git.io/typing-svg)
 
 </div>
 <br>
@@ -77,10 +75,10 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 
 🧠 **Things I Like:**
 
-- 💻 Coding, Networking, Servers, and Linux shenanigans
-- 🎨 Digital or traditional art and photography
+- 💻 Gaming, Coding, Networking, Servers, and Linux shenanigans
+- 🎨 Digital or traditional art
 - 🎸 Rock & Metal music (A7X supremacy 🤘)
-- ⚙️ Automotive and aviation
+- ⚙️ Automotive and photography
 
 ---
 
@@ -88,7 +86,7 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 
 - **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
 - **Tools:** VS Code, Termux, Acode, Figma, Photoshop, Git & GitHub
-- **Platforms:** Linux (OpenWrt, Kali & Debian), Windows, Android, MikroTik & Cisco
+- **Platforms:** Linux (OpenWrt, Arch, Kali, Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -205,4 +203,5 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
