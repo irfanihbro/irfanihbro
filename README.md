@@ -1,11 +1,10 @@
 <div align="center">
- 
+
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;Aspiring+Software+and+Network+Engineer;Tech,+Art,+and+Automotive+Enthusiast;Hobbyist+Photographer;Linux+Aficionado;Casual+Gamer;Audiophile,+Guitarist,+Metalhead)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;Network+Engineer;Linux+Aficionado;Distro+Hopper;Guitarist;Casual+Photographer;Metalhead+and+Audiophile;Tech+and+Automotive+Enthusiast)](https://git.io/typing-svg)
 
 </div>
-<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60">
@@ -70,7 +69,7 @@ class irfanihbro:
 
 <br>
 
-I'm **Irfan Anshari**, a left-handed tech & art enthusiast from Banjarmasin, Indonesia 🇮🇩.  
+I'm **Irfan Anshari**, an audiophile, left-handed guitarist and tech & art enthusiast from Banjarmasin, Indonesia 🇮🇩.  
 Currently a student majoring in **Computer and Telecommunication Network Engineering** at **SMK Negeri 1 Banjarmasin**. <br><br>
 
 🧠 **Things I Like:**
@@ -86,7 +85,7 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 
 - **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
 - **Tools:** VS Code, Termux, Acode, Figma, Photoshop, Git & GitHub
-- **Platforms:** Linux (OpenWrt, Arch, Kali, Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
+- **Platforms:** Linux (Arch, OpenWrt, Kali & Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -203,7 +202,3 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
-
-
-
-
