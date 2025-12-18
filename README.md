@@ -127,7 +127,6 @@ Below here are my social links, let's get connected! :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanihbro&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=irfanihbro&theme=transparent"/>
 
 </div>
 
@@ -202,3 +201,4 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
