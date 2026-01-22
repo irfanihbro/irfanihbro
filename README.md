@@ -59,7 +59,7 @@ class irfanihbro:
         self.name = "Muhammad Irfan Anshari"
         self.location = "Banjarmasin, Indonesia"
         self.work = "Network Engineer & Full-Stack Developer"
-        self.interests = ["Robotics", "Cybersecurity", "Web Development", "AI", "Software Development"]
+        self.interests = ["Robotics", "Cybersecurity", "Web Development", "AI", "Networking", "Software Development"]
         self.gaming = ["Roblox", "Minecraft", "PlayStation"]
         self.life_motto = "Big plans start with small steps"
 
@@ -201,4 +201,5 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
