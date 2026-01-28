@@ -155,7 +155,7 @@ Development:
 System:
   device: ["iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
   processor: "Qualcomm™ Snapdragon 8 Gen 3", "AMD™ Ryzen 7 7730U"
-  os: ["Android 15", "Windows 11"]
+  os: ["Android 16", "Windows 11"]
   environment: ["RouterOS", "OpenWrt", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
 ```
 
@@ -201,6 +201,7 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
 
 
