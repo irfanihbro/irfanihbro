@@ -2,7 +2,7 @@
 
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;Network+Engineer;Linux+Aficionado;Distro+Hopper;Guitarist;Casual+Photographer;Metalhead+and+Audiophile;Tech+and+Automotive+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;Network+Engineer;Linux+Aficionado;Guitarist;Casual+Photographer;Metalhead+and+Audiophile;Tech+and+Automotive+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -201,6 +201,7 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
 
 
