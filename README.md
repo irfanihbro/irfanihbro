@@ -76,12 +76,12 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 
 - 💻 Gaming, Coding, Networking, Servers, and Linux shenanigans
 - 🎨 Digital or traditional art
-- 🎸 Rock & Metal music (A7X supremacy 🤘)
+- 🎸 Rock & Metal music (A7X supremacy rahhh 🤘)
 - ⚙️ Automotive and photography
 
 ---
 
-🛠️ **Tech Stack I Use Often:**
+🛠️ **Tech Stack I Usually Use:**
 
 - **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
 - **Tools:** VS Code, Termux, Acode, Figma, Photoshop, Git & GitHub
@@ -143,6 +143,8 @@ Below here are my social links, let's get connected! :)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
 <br><br>
 
+<div align="center">
+  
 ## ⚙️ Current Setup
 
 ```yaml
@@ -159,6 +161,7 @@ System:
   environment: ["RouterOS", "OpenWrt", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
 ```
 
+</div>
 </div>
 <br>
 <div align="center">
@@ -201,6 +204,7 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
 
 
