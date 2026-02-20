@@ -69,12 +69,12 @@ class irfanihbro:
 
 <br>
 
-I'm **Irfan Anshari**, an audiophile, left-handed guitarist and tech & art enthusiast from Banjarmasin, Indonesia 🇮🇩.  
+Hi, I'm **Irfan Anshari**, an audiophile, left-handed guitarist and tech & art enthusiast from Banjarmasin, Indonesia 🇮🇩.  
 Currently a student majoring in **Computer and Telecommunication Network Engineering** at **SMK Negeri 1 Banjarmasin**. <br><br>
 
 🧠 **Things I Like:**
 
-- 💻 Gaming, Coding, Networking, Servers, and Linux shenanigans
+- 💻 Gaming, Coding, Networking, Servers, Guitar slinging, and Linux shenanigans
 - 🎨 Digital or traditional art
 - 🎸 Rock & Metal music (A7X supremacy rahhh 🤘)
 - ⚙️ Automotive and photography
@@ -91,8 +91,8 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 🛠️ **Tech Stack I Usually Use:**
 
 - **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
-- **Tools:** VS Code, Termux, Acode, Figma, Photoshop, Git & GitHub
-- **Platforms:** Linux (Arch, OpenWrt, Kali & Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
+- **Tools:** VS Code, Neovim, Docker, Termux, Acode, Figma, Photoshop, Git & GitHub
+- **Platforms:** Linux (Arch, OpenWrt, CasaOS, Proxmox, Kali & Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -194,6 +194,7 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
 
 
