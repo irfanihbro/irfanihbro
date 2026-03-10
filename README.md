@@ -76,7 +76,7 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 
 - Gaming, Coding, Networking, Servers, Guitar slinging, and Linux shenanigans
 - Digital or traditional art
-- Rock & Metal music (A7X supremacy rahhh 🤘)
+- Rock & Metal music (A7X supremacy 🤘)
 - Automotive and photography
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/irfanmastermind) [![𝕏](https://img.shields.io/badge/𝕏-%23000000.svg?logo=X&logoColor=white)](https://x.com/Irfanihbro) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%23004DA5.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik) [![Roblox](https://img.shields.io/badge/Roblox-%23202020.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
@@ -194,6 +194,7 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
 
 
