@@ -139,13 +139,13 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 ```yaml
 Development:
   Editor:
-    desktop: ["Visual Studio Code", "Arduino IDE"]
+    desktop: ["Neovim", "Emacs", "VSCodium",  "Arduino IDE"]
     mobile: ["Acode"]
-    terminal: ["Termux", "Linux UserLAnd", "PowerShell", "GNU Bash"]
+    terminal: ["Kitty", "PowerShell"]
 
 System:
   device: ["iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
-  processor: "Qualcomm™ Snapdragon 8 Gen 3", "AMD™ Ryzen 7 7730U"
+  processor: "Snapdragon 8 Gen 3", "AMD Ryzen 7 7730U"
   os: ["Android 16", "Windows 11"]
   environment: ["RouterOS", "OpenWrt", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
 ```
