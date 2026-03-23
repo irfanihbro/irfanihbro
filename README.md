@@ -92,7 +92,7 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 **Tech Stack I Usually Use:**
 
 - **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
-- **Tools:** VS Code, Neovim, Docker, Termux, Acode, Figma, Affinity, Photoshop, Illustrator, Git & GitHub
+- **Tools:** Neovim, VSCodium, Docker, Termux, Acode, Figma, Affinity, Photoshop, Illustrator, Git & GitHub
 - **Platforms:** Linux (Arch, OpenWrt, Kali & Proxmox/Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -195,16 +195,3 @@ System:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
