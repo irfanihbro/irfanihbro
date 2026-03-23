@@ -83,6 +83,9 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/irfanihbro)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Irfanihbro/s/Sq62J8E3Wv)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
+[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/31py4i42a6nd3he6xgorse3xku6e)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/irfanihbro)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/archlinux)
 
 ---
 
