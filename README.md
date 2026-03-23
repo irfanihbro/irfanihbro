@@ -56,10 +56,9 @@
 ```python
 class irfanihbro:
     def __init__(self):
-        self.name = "Muhammad Irfan Anshari"
+        self.name = "Irfan Anshari"
         self.location = "Banjarmasin, Indonesia"
-        self.work = "Network Engineer & Full-Stack Developer"
-        self.interests = ["Robotics", "Cybersecurity", "Web Development", "AI", "Networking", "Software Development"]
+        self.interests = ["Robotics/IoTs", "Cybersecurity", "Web Development", "Networking", "Software Development"]
         self.gaming = ["Roblox", "Minecraft", "PlayStation"]
         self.life_motto = "Big plans start with small steps"
 
@@ -88,7 +87,7 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 
 ---
 
-🛠️ **Tech Stack I Usually Use:**
+**Tech Stack I Usually Use:**
 
 - **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
 - **Tools:** VS Code, Neovim, Docker, Termux, Acode, Figma, Photoshop, Git & GitHub
