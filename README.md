@@ -78,29 +78,29 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 - Rock & Metal music (A7X supremacy 🤘)
 - Automotive and photography
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/irfanmastermind) [![𝕏](https://img.shields.io/badge/𝕏-%23000000.svg?logo=X&logoColor=white)](https://x.com/Irfanihbro) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%23004DA5.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik) [![Roblox](https://img.shields.io/badge/Roblox-%23202020.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/irfanmastermind)
+[![PlayStation](https://img.shields.io/badge/PlayStation-%23004DA5.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik)[![Roblox](https://img.shields.io/badge/Roblox-%23202020.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
 [![Facebook](https://img.shields.io/badge/Facebook-%230068FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/irfanihbro)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/irfanihbro)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Irfanihbro/s/Sq62J8E3Wv)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/31py4i42a6nd3he6xgorse3xku6e)
 
 ---
 
 **Tech Stack I Usually Use:**
 
 - **Languages:** HTML, CSS, JavaScript, PHP, C++, Python, Bash, and more
-- **Tools:** VS Code, Neovim, Docker, Termux, Acode, Figma, Photoshop, Git & GitHub
-- **Platforms:** Linux (Arch, OpenWrt, CasaOS, Proxmox, Kali & Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
+- **Tools:** VS Code, Neovim, Docker, Termux, Acode, Figma, Affinity, Photoshop, Illustrator, Git & GitHub
+- **Platforms:** Linux (Arch, OpenWrt, Kali & Proxmox/Debian), Windows, Android, MikroTik RouterOS & Cisco IOS
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash)
 
@@ -139,7 +139,7 @@ Currently a student majoring in **Computer and Telecommunication Network Enginee
 ```yaml
 Development:
   Editor:
-    desktop: ["Neovim", "Emacs", "VSCodium",  "Arduino IDE"]
+    desktop: ["Neovim", "Emacs", "VSCodium", "Arduino IDE"]
     mobile: ["Acode"]
     terminal: ["Kitty", "PowerShell"]
 
@@ -147,7 +147,7 @@ System:
   device: ["iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
   processor: "Snapdragon 8 Gen 3", "AMD Ryzen 7 7730U"
   os: ["Android 16", "Windows 11"]
-  environment: ["RouterOS", "OpenWrt", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
+  environment: ["RouterOS", "OpenWrt", "Debian", "Windows", "Cisco IOS", "Arch Linux", "Proxmox"]
 ```
 
 </div>
