@@ -68,7 +68,7 @@ class irfanihbro:
 
 <br>
 
-Hi, I'm **Irfan Anshari**, a left-handed guitarist and tech & art enthusiast from Banjarmasin, Indonesia. 🇮🇩
+Hi, I'm **Irfan Anshari**, an art & tech enthusiast from Banjarmasin, Indonesia. 🇮🇩
 Currently a student majoring in **Computer and Telecommunication Network Engineering** at **SMK Negeri 1 Banjarmasin**. <br><br>
 
 **Things I Like:**
