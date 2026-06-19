@@ -69,7 +69,7 @@ class irfanihbro:
 <br>
 
 Hi, I'm **Irfan Anshari**, an art & tech enthusiast from Banjarmasin, Indonesia.
-A graduate of **Computer Network and Telecommunications Engineering** at **Vocational High School 1 Banjarmasin**. <br><br>
+A graduate of **Computer Network and Telecommunications Engineering** at **Vocational High School 1 Banjarmasin**. Currently, I'm pursuing **Bachelor's Degree** in **Computer Science** (Teknik Informatika) in **Universitas Islam Kalimantan Muhammad Arsyad Al Banjari** (UNISKA). <br><br>
 
 **Things I Like:**
 
@@ -77,7 +77,8 @@ A graduate of **Computer Network and Telecommunications Engineering** at **Vocat
 - Digital and traditional art
 - Rock & Metal music
 - Automotive and photography
-- Reading novels
+- Reading books (mostly novels)
+- Watching movies
 
 ---
 
