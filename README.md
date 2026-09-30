@@ -30,11 +30,11 @@
 class irfanihbro:
     def __init__(self):
         self.location = "South Borneo, Indonesia"
-        self.gaming = ["Roblox", "DOOM", "Persona"]
+        self.gaming = ["Roblox", "Persona"]
         self.life_motto = "Big plans start with small steps"
 
     def get_daily_routine(self):
-        return ["Eat", "Learn", "Game", "Sleep", "Repeat"]
+        return ["Eat", "Sleep", "Code", "Coffee"]
 ```
 
 <br>
