@@ -39,7 +39,7 @@ class irfanihbro:
 
 <br>
 
-Hi, I'm Irfan Anshari, a tech enthusiast from South Kalimantan, Indonesia. I graduated from Vocational High School 1 Banjarmasin, majoring in Computer Network and Telecommunications Engineering. Currently, I'm pursuing a Bachelor's Degree in Computer Science (Informatics) at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari (UNISKA).
+Hi, I'm Irfan Anshari, a tech enthusiast from South Borneo, Indonesia. I graduated from Vocational High School 1 Banjarmasin, majoring in Computer Network Engineering. Currently, I'm pursuing a Bachelor's Degree in Computer Science (Informatics) at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari (UNISKA MAB).
 
 <br>
 
